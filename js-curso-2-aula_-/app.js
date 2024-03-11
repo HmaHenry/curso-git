@@ -65,3 +65,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
+
+function teste () {
+    console.log("Alteração concluída.")
+}
